@@ -1,0 +1,3 @@
+2021-10-07 16:46:01.0741|INFO|GetDocumentAPI.Controllers.GetDocumentController|Get File for Agreement No 001020270200009 for Document Type DOKUMEN POLIS ASURANSI
+2021-10-07 16:49:43.8363|INFO|GetDocumentAPI.Controllers.GetDocumentController|Request File for Agreement No 001020270200009 for Document Type DOKUMEN POLIS ASURANSI
+2021-10-07 16:49:43.9027|INFO|GetDocumentAPI.Controllers.GetDocumentController|Request File success for Agreement No 001020270200009 for Document Type DOKUMEN POLIS ASURANSI
